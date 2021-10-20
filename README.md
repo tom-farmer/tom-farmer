@@ -5,9 +5,7 @@
 - I’m currently learning 
   - survival analysis methods and modeling
   - pytorch for embedding layers
-- contact: tomfarmer2019@gmail.com
-
-
 - SOA Project Oversight Group Member on:
   - [Machine-Learning Methods for Insurance Applications-A Survey](https://www.soa.org/resources/research-reports/2019/machine-learning-methods/)
   - [A Machine Learning Approach to Incorporating Industry Mortality Table Features into a Company's Insured Mortality Analysis](https://www.soa.org/resources/research-reports/2019/2019-machine-learning-approach/)
+- contact: tomfarmer2019@gmail.com
