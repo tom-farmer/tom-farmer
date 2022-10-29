@@ -1,5 +1,5 @@
 - Hi, I’m @tom-farmer
-- Actuary in the life insurance industry FSA (2017), MAAA, CER
+- Actuary in the life insurance industry FSA (2017), MAAA, CERA
 - I’m interested in statistics/machine learning and how they can be applied to problems in life insurance
 - I’m currently learning 
   - survival analysis methods and modeling
